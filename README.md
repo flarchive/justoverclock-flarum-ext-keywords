@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-keywords.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-keywords) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-keywords).
 
-**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**24** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-05-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-05-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v0.1.7) |
+| `1.0` | 2021-05-22 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v1.0) |
+| `1.1` | 2021-05-22 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tree/archive/v1.1) |
+
+[View all 24 versions](https://github.com/flarchive/justoverclock-flarum-ext-keywords/tags)
 
 Catalog entry: [packages/justoverclock-flarum-ext-keywords.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-keywords.json)
 
